@@ -1,7 +1,7 @@
 /* Gabriel Fernandez
  * COP3330 - Summer CV01
  * "Motivated" Practice Exercises
- * Exercise 23 - Mad Lib
+ * Exercise 23 - Troubleshooting Car Issues
  */
 
 package org.example;
